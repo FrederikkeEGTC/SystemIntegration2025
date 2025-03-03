@@ -1,0 +1,75 @@
+<lotr>
+    <character name="Aragorn">
+        <age>87</age>
+        <race>Dunedain</race>
+        <weapons>
+            <weapon>Anduril</weapon>
+            <weapon>Bow</weapon>
+            <weapon>Spear</weapon>
+        </weapons>
+        <titles>
+            <title>Chieftain of the Dúnedain</title>
+            <title>High King of the Dúnedain</title>
+            <title>King of Gondor and Arnor</title>
+            <title>King of the West</title>
+            <title>Lord of the Westlands</title>
+        </titles>
+    </character>
+    <character name="Frodo">
+        <age>50</age>
+        <race>Hobbit</race>
+        <weapons>
+            <weapon>Sting</weapon>
+        </weapons>
+        <titles>
+            <title>Ring-bearer</title>
+            <title>Deputy Mayor of Michel Delving</title>
+            <title>Elf-friend</title>
+        </titles>
+    </character>
+    <character name="Gandalf">
+        <age>Unknown</age>
+        <race>Maia</race>
+        <weapons>
+            <weapon>Glamdring</weapon>
+            <weapon>Narya</weapon>
+            <weapon>Wizards staff</weapon>
+        </weapons>
+        <titles>
+            <title>Gandalf the Grey</title>
+            <title>Gandalf the White</title>
+            <title>Guardian of the Third Age</title>
+            <title>Servant of the Secret fire</title>
+            <title>Mithrandir</title>
+            <title>Istar</title>
+            <title>Wielder of the flame of Arnor</title>
+        </titles>
+    </character>
+    <character name="Legolas">
+        <age>Unknown</age>
+        <race>Elf</race>
+        <weapons>
+            <weapon>Bow</weapon>
+            <weapon>Long white knife</weapon>
+        </weapons>
+        <titles>
+            <title>Prince of Mirkwood</title>
+            <title>Companion of the Fellowship</title>
+            <title>Prince of the Woodland Realm</title>
+        </titles>
+    </character>
+    <character name="Huan">
+        <age>Unknown</age>
+        <race>Wolfhound</race>
+        <weapons>
+            <weapon>Teeth</weapon>
+            <weapon>Claws</weapon>
+            <weapon>Powers of the Valar</weapon>
+        </weapons>
+        <titles>
+            <title>Wolfhound of Orome</title>
+            <title>Mount of Celegorm</title>
+            <title>Captain of Dogs</title>
+        </titles>
+    </character>
+</lotr>

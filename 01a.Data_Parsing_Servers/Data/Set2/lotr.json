@@ -1,0 +1,73 @@
+{
+    "Aragorn": {
+        "age": 87,
+        "race": "Dunedain",
+        "weapon(s)": [
+            "Anduril",
+            "Bow", 
+            "Spear"
+        ],
+        "titles": [
+            "Chieftain of the Dúnedain",
+            "High King of the Dúnedain",
+            "King of Gondor and Arnor",
+            "King of the West",
+            "Lord of the Westlands"
+        ]
+    },
+    "Frodo": {
+        "age": 50,
+        "race": "Hobbit",
+        "weapon(s)": "Sting",
+        "titles": [
+            "Ring-bearer",
+            "Deputy Mayor of Michel Delving",
+            "Elf-friend"
+        ]
+    },
+    "Gandalf": {
+        "age": "Unknown",
+        "race": "Maia",
+        "weapon(s)": [
+            "Glamdring",
+            "Narya",
+            "Wizards staff"
+        ],
+        "titles": [
+            "Gandalf the Grey",
+            "Gandalf the White",
+            "Guardian of the Third Age",
+            "Servant of the Secret fire",
+            "Mithrandir",
+            "Istar",
+            "Wielder of the flame of Arnor"
+        ]
+    },
+    "Legolas": {
+        "age": "Unknown",
+        "race": "Elf",
+        "weapon(s)": [
+            "Bow",
+            "Long white knife"
+        ],
+        "titles": [
+            "Prince of Mirkwood",
+            "Companion of the Fellowship",
+            "Prince of the Woodland Realm"
+        ]
+    },
+    "Huan": {
+        "age": "Unknown",
+        "race":"Wolfhound",
+        "weapon(s)": [
+            "Teeth",
+            "Claws",
+            "Powers of the Valar"
+        ],
+        "titles": [
+            "Woldhoound of Orome",
+            "Mount of Celegorm",
+            "Captain of Dogs"
+        ]
+    }
+}

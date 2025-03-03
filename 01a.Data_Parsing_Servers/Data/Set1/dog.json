@@ -1,0 +1,17 @@
+{
+    "dogs": [
+    {
+        "name": "Tjalfe",
+        "age": 12,
+        "breed": "Labrador",
+        "colour": "Black"
+    },
+    {
+        "name": "Bingus",
+        "age": 10,
+        "breed": "Golden",
+        "colour": "Yellow"
+    }
+
+    ]
+}

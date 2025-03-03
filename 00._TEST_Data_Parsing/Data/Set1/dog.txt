@@ -1,0 +1,4 @@
+name=Beni
+age=1
+breed=Shiba Inu
+colour=Sashige
